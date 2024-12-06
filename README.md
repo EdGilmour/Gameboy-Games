@@ -10,7 +10,7 @@ Licensed under the MIT License (view LICENSE.md for more information)
   <h1 align="center">GBA Online</h1>
   <p align="center">Emulate GBA games, free and in your browser!</p>
 
-  <p align="center"><a target="_blank" href="[https://gba.js.org](https://edgilmour.github.io/The-Wild-Death-2/)">🔗 Gameboy Games</a></p>
+  <p align="center"><a target="_blank" href="https://edgilmour.github.io/Gameboy-Games/">🔗 Gameboy Games</a></p>
 
   <p align="center">
     <img alt="Github License" src="https://img.shields.io/badge/LICENSE-MIT-blue?style=for-the-badge">
